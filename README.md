@@ -1,2 +1,1 @@
-# projetos-java
-Curso alura de java
+# projetos-python
